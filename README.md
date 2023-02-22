@@ -1,4 +1,4 @@
-## Cloud storage simulator
+## Adaptive streaming service simulator
 
 In this repo, interaction of clients and servers of adaptive video streaming is simulated. 
 The goal is to estimate the number of users that can be handled by a server, allowing the service provider to anticipate the need for additional resources.
